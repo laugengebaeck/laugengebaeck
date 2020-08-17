@@ -4,10 +4,12 @@ Studying IT-Systems Engineering at Hasso Plattner Institut (HPI). I'm interested
 
 Pronouns: he/him
 
-#### Find me on the internet
+#### Find me on the internet!
 * GitHub: ![Github Followers](https://img.shields.io/github/followers/laugengebaeck?style=social)
 * Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/_laugengebaeck?style=social)
 * Reddit: ![Reddit](https://img.shields.io/reddit/user-karma/combined/laugengebaeck42?style=social)
+
+![I like trains](https://tenor.com/uKn1.gif)
 
 <!--
 **laugengebaeck/laugengebaeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
