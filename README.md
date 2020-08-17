@@ -9,7 +9,7 @@ Pronouns: he/him
 * Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/_laugengebaeck?style=social)
 * Reddit: ![Reddit](https://img.shields.io/reddit/user-karma/combined/laugengebaeck42?style=social)
 
-![I like trains](https://tenor.com/uKn1.gif)
+![I like trains](https://media1.tenor.com/images/84506fe5994759bbe499d124efb21e95/tenor.gif?itemid=4905803)
 
 <!--
 **laugengebaeck/laugengebaeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
