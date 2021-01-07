@@ -9,6 +9,8 @@ Pronouns: he/him
 * Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/_laugengebaeck?style=social)
 * Reddit: ![Reddit](https://img.shields.io/reddit/user-karma/combined/laugengebaeck42?style=social)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laugengebaeck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![I like trains](https://media1.tenor.com/images/84506fe5994759bbe499d124efb21e95/tenor.gif?itemid=4905803)
 
 <!--
