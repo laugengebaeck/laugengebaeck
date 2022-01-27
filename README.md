@@ -2,7 +2,7 @@
 #### Hi there 👋
 Studying IT-Systems Engineering at Hasso Plattner Institut (HPI). I'm interested in maths, algorithms and competitive programming, but also in functional programming. And I like trains :train2:
 
-Pronouns: he/him
+Pronouns: he/they
 
 #### Find me on the internet!
 * GitHub: ![Github Followers](https://img.shields.io/github/followers/laugengebaeck?style=social)
