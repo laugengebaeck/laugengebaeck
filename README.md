@@ -1,13 +1,8 @@
-### Lukas Rost / laugengebaeck
+### laugengebaeck
 #### Hi there 👋
 Studying IT-Systems Engineering at Hasso Plattner Institut (HPI). I'm interested in maths, algorithms and competitive programming, but also in functional programming. And I like trains :train2:
 
-Pronouns: he/they
-
-#### Find me on the internet!
-* GitHub: ![Github Followers](https://img.shields.io/github/followers/laugengebaeck?style=social)
-* Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/_laugengebaeck?style=social)
-* Reddit: ![Reddit](https://img.shields.io/reddit/user-karma/combined/laugengebaeck42?style=social)
+Pronouns: she/they
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laugengebaeck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
